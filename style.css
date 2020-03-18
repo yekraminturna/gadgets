@@ -1,0 +1,54 @@
+
+.container{
+    margin-bottom: 30px;
+    
+}
+.buy-button{
+    background-color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+.big-banner{
+ 
+ background-image: url(images/Capture1.PNG);
+ background-repeat: no-repeat;
+ background-position: bottom left;
+ 
+    
+}
+.carousel-indicators li {
+    width: 50px;
+    height: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: coral;
+}
+
+.see{
+    text-align: right;
+    color: coral;
+}
+.card{
+    box-shadow: 8px 10px 10px lightgrey;
+    border-radius: 15px;
+    border: none;
+}
+
+.middle{
+    text-align: center;
+}
+
+.cat{
+    text-align: center;
+    
+   
+}
+
+
+
+
+
+
